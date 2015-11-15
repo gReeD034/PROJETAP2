@@ -123,6 +123,9 @@ def r1(cercle):
     return ((get_radius(cercle)*math.sin(math.pi/3))/(1+(math.sin((math.pi/3)))))
 
 def alpha(i):
+    """
+    teste documentation
+    """
     return (2*i*math.pi)/3
 
 def cerclenimporte(r,r1,alpha,x,y):
