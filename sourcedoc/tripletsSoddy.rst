@@ -1,0 +1,11 @@
+---------------
+tripletsSoddy
+---------------
+
+
+.. automodule:: tripletsSoddy
+   :members:
+
+
+
+
